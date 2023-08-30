@@ -1,0 +1,12 @@
+.heading {
+    color: green;
+    font-size: 45px;
+    font-family:"Courier New", Courier, monospace;
+    font-weight: bold;
+}
+
+button {
+    display: inline-block;
+    background-color: #f5f5dc;
+    border: solid #008000;
+}
