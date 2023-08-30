@@ -1,0 +1,17 @@
+.heading {
+    color: #008000;
+    font-size: 45px;
+}
+
+img {
+    border: solid 12px #008000;
+    margin: 5px;
+    padding: 3px;
+}
+
+ul {
+    padding: 15px;
+    background-color: beige;
+    margin-left: 40px;
+    margin-right: 800px;
+}
